@@ -2,9 +2,9 @@
 
 ## Learning Competencies
 
-* can discern difference between markup and presentation
-* can edit presentation layer to achieve a new layout
-* can position using css float
+* discern difference between markup and presentation
+* edit presentation layer to achieve a new layout
+* position using css float
 
 ## Summary
 
@@ -34,9 +34,7 @@ reverence.
 
 ## Releases
 
-### Release 0
-
-### Implement Right-hand Navigation
+### Release 0 : Implement Right-hand Navigation
 
 As closely as you can, edit the `main.css` file so that the blog post now looks like this:
 
