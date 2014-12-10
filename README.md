@@ -12,7 +12,7 @@ We're going to learn some fundamentals about webpage layout.  You'll have a
 fixed HTML file to work with and your job is to change the CSS and *only* the
 CSS to achieve the desired layout.
 
-The `/source` directory contains a basic HTML file (`blog.html`) that models a blog post, including:
+The `blog.html` contains basic HTML that models a blog post, including:
 
 1. A page header
 2. A navigation bar
