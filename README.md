@@ -28,10 +28,6 @@ read these resources:
 * [A Step-by-Step Float Tutorial][]
 * [Simple 2 column CSS layout][]
 
-CSS is weird and frustrating for most engineers.  The model seems inconsistent
-and strange at first, but the engineers who master it are treated with awe and
-reverence.
-
 ## Releases
 
 ### Release 0 : Implement Right-hand Navigation
